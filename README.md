@@ -27,7 +27,7 @@
 <a href="https://fb.com/mehdi.medimegh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehdi.medimegh" height="30" width="40" /></a>
 <a href="https://instagram.com/medimegh_mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medimegh_mehdi" height="30" width="40" /></a>
 <a href="https://www.behance.net/medimeghmehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="medimeghmehdi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucudnslbnoidr2yifnnabqmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucudnslbnoidr2yifnnabqmg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuDnslbNOIdr2yifnnaBqMg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucudnslbnoidr2yifnnabqmg" height="30" width="40" /></a>
 <a href="https://discord.gg/Mehdi Medimegh#9726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mehdi Medimegh#9726" height="30" width="40" /></a>
 </p>
 
